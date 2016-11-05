@@ -1,0 +1,3 @@
+var x = mutable 3;
+x = @x + 1;
+@x

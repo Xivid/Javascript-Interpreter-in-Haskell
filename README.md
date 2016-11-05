@@ -1,6 +1,8 @@
 # SINH-Interpreter-in-Haskell
-SINH is a simple script language demonstrated in COMP3259 Principles of Programming Languages of The University of Hong Kong.
-This repo shows the SINH interpreter I wrote along the course.
+SINH is a simple **functional** script language demonstrated in COMP3259 Principles of Programming Languages of The University of Hong Kong.
+This repo shows the SINH interpreter I wrote along the course. The codes are [here](sinh/).
+
+There is also an **imperative** version of the language. You can find its introduction and interpreter [here](imperative/).
 
 ## Features
 - First-Class Functions
